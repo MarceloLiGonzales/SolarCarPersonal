@@ -1,0 +1,16 @@
+../Middlewares/TraceRecorder/trcStreamingRecorder.c:129:13:xTraceInitialize	8	static
+../Middlewares/TraceRecorder/trcStreamingRecorder.c:228:13:xTraceHeaderInitialize	24	static
+../Middlewares/TraceRecorder/trcStreamingRecorder.c:269:13:xTraceEnable	32	static
+../Middlewares/TraceRecorder/trcStreamingRecorder.c:331:13:xTraceDisable	8	static
+../Middlewares/TraceRecorder/trcStreamingRecorder.c:354:13:xTraceGetEventBuffer	16	static
+../Middlewares/TraceRecorder/trcStreamingRecorder.c:368:13:xTraceTzCtrl	24	static
+../Middlewares/TraceRecorder/trcStreamingRecorder.c:411:6:vTraceSetFilterGroup	16	static
+../Middlewares/TraceRecorder/trcStreamingRecorder.c:416:6:vTraceSetFilterMask	16	static
+../Middlewares/TraceRecorder/trcStreamingRecorder.c:425:13:prvSetRecorderEnabled	32	static,ignoring_inline_asm
+../Middlewares/TraceRecorder/trcStreamingRecorder.c:470:13:prvSetRecorderDisabled	24	static,ignoring_inline_asm
+../Middlewares/TraceRecorder/trcStreamingRecorder.c:490:13:prvTraceStoreHeader	16	static
+../Middlewares/TraceRecorder/trcStreamingRecorder.c:502:13:prvTraceStoreTimestampInfo	16	static
+../Middlewares/TraceRecorder/trcStreamingRecorder.c:517:13:prvTraceStoreEntryTable	32	static
+../Middlewares/TraceRecorder/trcStreamingRecorder.c:553:13:prvTraceStoreStartEvent	16	static
+../Middlewares/TraceRecorder/trcStreamingRecorder.c:568:12:prvIsValidCommand	24	static
+../Middlewares/TraceRecorder/trcStreamingRecorder.c:590:13:prvProcessCommand	16	static

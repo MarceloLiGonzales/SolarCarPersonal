@@ -1,0 +1,8 @@
+../Middlewares/TraceRecorder/trcTask.c:26:13:xTraceTaskInitialize	24	static
+../Middlewares/TraceRecorder/trcTask.c:47:13:xTraceTaskUnregister	24	static
+../Middlewares/TraceRecorder/trcTask.c:59:13:xTraceTaskSetPriority	24	static
+../Middlewares/TraceRecorder/trcTask.c:81:13:xTraceTaskSetPriorityWithoutHandle	24	static
+../Middlewares/TraceRecorder/trcTask.c:105:13:xTraceTaskSwitch	48	static,ignoring_inline_asm
+../Middlewares/TraceRecorder/trcTask.c:147:13:xTraceTaskReady	24	static
+../Middlewares/TraceRecorder/trcTask.c:163:13:xTraceTaskInstanceFinishedNow	16	static
+../Middlewares/TraceRecorder/trcTask.c:177:13:xTraceTaskInstanceFinishedNext	16	static

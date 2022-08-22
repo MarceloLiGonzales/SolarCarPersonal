@@ -1,0 +1,3 @@
+../Middlewares/TraceRecorder/streamports/ARM_ITM/trcStreamPort.c:97:13:prvTraceItmWrite	32	static
+../Middlewares/TraceRecorder/streamports/ARM_ITM/trcStreamPort.c:125:13:prvTraceItmRead	32	static
+../Middlewares/TraceRecorder/streamports/ARM_ITM/trcStreamPort.c:156:13:xTraceStreamPortInitialize	16	static

@@ -110,6 +110,14 @@ traceResult prvTraceItmWrite(void* ptrData, uint32_t size, int32_t* ptrBytesWrit
 		*ptrBytesWritten += 4;
 	}
 
+	if ((CoreDebug->DEMCR & CoreDebug_DEMCR_TRCENA_Msk) &&					/* Trace enabled? */ \
+			(ITM->TCR & ITM_TCR_ITMENA_Msk) &&									/* ITM enabled? */ \
+			(ITM->TER & (1UL << (1))))								/* ITM port enabled? */ \
+		{ \
+			while (ITM->PORT[1].u32 == 0) { /* Do nothing */ }	/* Block until room in ITM FIFO - This stream port is always in "blocking mode", since intended for high-speed ITM! */ \
+			ITM->PORT[1].u32 = 80;								/* Write the data */ \
+		} \
+
 	return TRC_SUCCESS;
 }
 

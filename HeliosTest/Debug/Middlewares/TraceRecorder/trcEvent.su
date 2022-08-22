@@ -1,0 +1,6 @@
+../Middlewares/TraceRecorder/trcEvent.c:30:13:xTraceEventInitialize	32	static
+../Middlewares/TraceRecorder/trcEvent.c:59:13:xTraceEventBeginRawOffline	32	static,ignoring_inline_asm
+../Middlewares/TraceRecorder/trcEvent.c:101:13:xTraceEventBeginRawOfflineBlocking	40	static,ignoring_inline_asm
+../Middlewares/TraceRecorder/trcEvent.c:143:13:xTraceEventEndOffline	24	static,ignoring_inline_asm
+../Middlewares/TraceRecorder/trcEvent.c:165:13:xTraceEventEndOfflineBlocking	32	static,ignoring_inline_asm
+../Middlewares/TraceRecorder/trcEvent.c:192:13:xTraceEventAddData	32	static

@@ -1,0 +1,9 @@
+../Middlewares/TraceRecorder/trcEntryTable.c:53:13:xTraceEntryTableInitialize	24	static
+../Middlewares/TraceRecorder/trcEntryTable.c:88:13:xTraceEntryCreate	48	static,ignoring_inline_asm
+../Middlewares/TraceRecorder/trcEntryTable.c:135:13:xTraceEntryDelete	40	static,ignoring_inline_asm
+../Middlewares/TraceRecorder/trcEntryTable.c:176:13:xTraceEntryFind	24	static
+../Middlewares/TraceRecorder/trcEntryTable.c:204:13:xTraceEntrySetSymbol	24	static
+../Middlewares/TraceRecorder/trcEntryTable.c:242:13:xTraceEntryGetCount	16	static
+../Middlewares/TraceRecorder/trcEntryTable.c:255:13:xTraceEntryGetAtIndex	16	static
+../Middlewares/TraceRecorder/trcEntryTable.c:391:13:prvEntryIndexInitialize	24	static
+../Middlewares/TraceRecorder/trcEntryTable.c:405:13:prvEntryIndexTake	24	static

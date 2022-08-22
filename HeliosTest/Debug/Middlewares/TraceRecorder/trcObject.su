@@ -1,0 +1,10 @@
+../Middlewares/TraceRecorder/trcObject.c:25:13:xTraceObjectRegisterInternal	64	static,ignoring_inline_asm
+../Middlewares/TraceRecorder/trcObject.c:100:13:xTraceObjectRegister	40	static
+../Middlewares/TraceRecorder/trcObject.c:105:13:xTraceObjectUnregister	40	static
+../Middlewares/TraceRecorder/trcObject.c:134:13:xTraceObjectSetName	24	static
+../Middlewares/TraceRecorder/trcObject.c:155:13:xTraceObjectRegisterWithoutHandle	40	static
+../Middlewares/TraceRecorder/trcObject.c:162:13:xTraceObjectUnregisterWithoutHandle	56	static,ignoring_inline_asm
+../Middlewares/TraceRecorder/trcObject.c:185:13:xTraceObjectSetNameWithoutHandle	48	static,ignoring_inline_asm
+../Middlewares/TraceRecorder/trcObject.c:212:13:xTraceObjectSetSpecificStateWithoutHandle	56	static,ignoring_inline_asm
+../Middlewares/TraceRecorder/trcObject.c:235:13:xTraceObjectSetOptionsWithoutHandle	48	static,ignoring_inline_asm
+../Middlewares/TraceRecorder/trcObject.c:262:13:prvTraceObjectSendNameEvent	32	static

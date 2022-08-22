@@ -1,0 +1,5 @@
+../Middlewares/TraceRecorder/trcEventBuffer.c:17:13:xTraceEventBufferInitialize	24	static
+../Middlewares/TraceRecorder/trcEventBuffer.c:47:20:prvTraceEventBufferPop	24	static
+../Middlewares/TraceRecorder/trcEventBuffer.c:63:13:xTraceEventBufferPush	80	static
+../Middlewares/TraceRecorder/trcEventBuffer.c:195:13:xTraceEventBufferTransfer	32	static
+../Middlewares/TraceRecorder/trcEventBuffer.c:242:13:xTraceEventBufferClear	16	static

@@ -1,0 +1,3 @@
+../Middlewares/TraceRecorder/trcCounter.c:19:13:xTraceCounterSetCallback	16	static
+../Middlewares/TraceRecorder/trcCounter.c:31:13:xTraceCounterCreate	56	static
+../Middlewares/TraceRecorder/trcCounter.c:58:13:xTraceCounterSet	32	static

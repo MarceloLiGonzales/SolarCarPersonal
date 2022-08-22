@@ -1,0 +1,5 @@
+../Middlewares/TraceRecorder/trcISR.c:19:13:xTraceISRInitialize	32	static
+../Middlewares/TraceRecorder/trcISR.c:50:13:xTraceISRRegister	48	static
+../Middlewares/TraceRecorder/trcISR.c:109:13:xTraceISRBegin	48	static,ignoring_inline_asm
+../Middlewares/TraceRecorder/trcISR.c:159:13:xTraceISREnd	48	static,ignoring_inline_asm
+../Middlewares/TraceRecorder/trcISR.c:263:18:xTraceSetISRProperties	24	static

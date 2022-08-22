@@ -26,7 +26,7 @@ extern "C" {
  * Default: 1 (0 is typically terminal output and 31 is used by Keil)
  *
  ******************************************************************************/
-#define TRC_CFG_STREAM_PORT_ITM_PORT 1
+#define TRC_CFG_STREAM_PORT_ITM_PORT 2
 
 #ifdef __cplusplus
 }

@@ -1,0 +1,6 @@
+../Middlewares/TraceRecorder/trcPrint.c:31:13:xTracePrintInitialize	16	static
+../Middlewares/TraceRecorder/trcPrint.c:72:13:xTracePrint	32	static
+../Middlewares/TraceRecorder/trcPrint.c:113:13:xTraceConsoleChannelPrintF	16	static
+../Middlewares/TraceRecorder/trcPrint.c:185:13:xTracePrintF	28	static
+../Middlewares/TraceRecorder/trcPrint.c:210:13:xTraceVPrintF	48	static
+../Middlewares/TraceRecorder/trcPrint.c:252:20:prvTraceVPrintF	48	static

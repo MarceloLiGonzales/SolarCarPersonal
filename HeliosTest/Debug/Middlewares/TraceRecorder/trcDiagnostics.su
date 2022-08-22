@@ -1,0 +1,9 @@
+../Middlewares/TraceRecorder/trcDiagnostics.c:24:13:xTraceDiagnosticsInitialize	24	static
+../Middlewares/TraceRecorder/trcDiagnostics.c:45:13:xTraceDiagnosticsGet	16	static
+../Middlewares/TraceRecorder/trcDiagnostics.c:61:13:xTraceDiagnosticsSet	16	static
+../Middlewares/TraceRecorder/trcDiagnostics.c:74:13:xTraceDiagnosticsAdd	16	static
+../Middlewares/TraceRecorder/trcDiagnostics.c:87:13:xTraceDiagnosticsIncrease	16	static
+../Middlewares/TraceRecorder/trcDiagnostics.c:92:13:xTraceDiagnosticsDecrease	16	static
+../Middlewares/TraceRecorder/trcDiagnostics.c:97:13:xTraceDiagnosticsSetIfHigher	16	static
+../Middlewares/TraceRecorder/trcDiagnostics.c:113:13:xTraceDiagnosticsSetIfLower	16	static
+../Middlewares/TraceRecorder/trcDiagnostics.c:129:13:xTraceDiagnosticsCheckStatus	8	static

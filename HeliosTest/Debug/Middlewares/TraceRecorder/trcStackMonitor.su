@@ -1,0 +1,5 @@
+../Middlewares/TraceRecorder/trcStackMonitor.c:34:13:xTraceStackMonitorInitialize	24	static
+../Middlewares/TraceRecorder/trcStackMonitor.c:57:13:xTraceStackMonitorAdd	40	static,ignoring_inline_asm
+../Middlewares/TraceRecorder/trcStackMonitor.c:96:13:xTraceStackMonitorRemove	40	static,ignoring_inline_asm
+../Middlewares/TraceRecorder/trcStackMonitor.c:147:13:xTraceStackMonitorGetAtIndex	24	static
+../Middlewares/TraceRecorder/trcStackMonitor.c:167:13:xTraceStackMonitorReport	48	static,ignoring_inline_asm

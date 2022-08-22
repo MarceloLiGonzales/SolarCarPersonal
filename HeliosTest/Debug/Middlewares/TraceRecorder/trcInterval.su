@@ -1,0 +1,4 @@
+../Middlewares/TraceRecorder/trcInterval.c:17:13:xTraceIntervalChannelSetCreate	32	static
+../Middlewares/TraceRecorder/trcInterval.c:38:13:xTraceIntervalChannelCreate	40	static
+../Middlewares/TraceRecorder/trcInterval.c:62:13:xTraceIntervalStart	32	static
+../Middlewares/TraceRecorder/trcInterval.c:82:13:xTraceIntervalStop	24	static
